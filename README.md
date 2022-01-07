@@ -1,4 +1,3 @@
 # Kokoa clone 2021 update
 
-CSS got so much better!
-Second trial to commit!
+HTML & CSS are so much fun!

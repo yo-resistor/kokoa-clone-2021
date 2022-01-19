@@ -1,0 +1,27 @@
+.settings__setting {
+  padding: 20px 0px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 24px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.settings__setting i {
+  opacity: 0.9;
+  margin-right: 20px;
+  font-size: 24px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.settings__setting-column {
+  display: flex;
+}
+
+.settings__setting-subtext {
+  font-size: 20px;
+  color: var(--grey);
+}
